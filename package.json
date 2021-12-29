@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer_exemplo",
+  "version": "1.0.0",
+  "description": "teste puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
