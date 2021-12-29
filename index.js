@@ -12,7 +12,7 @@ async function getBunnies() {
   const returnError = async () => {
     await page.waitForTimeout(6000);
 
-    await page.type("#identifierId", 'jonathanrepresentacoesja@gmail.com')
+    await page.type("#identifierId", 'jonathanr12345@gmail.com')
 
     await page.waitForTimeout(3000);
 
